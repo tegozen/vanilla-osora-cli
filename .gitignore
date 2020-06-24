@@ -25,3 +25,4 @@ yarn.lock
 package-lock.json
 dist
 public/config.js
+public/scss
